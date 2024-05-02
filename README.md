@@ -1,33 +1,31 @@
 <div align="center">
-  <img height="470" src="https://i.hizliresim.com/lkd5i56.png"  />
+  <img height="300" src="https://i.hizliresim.com/lkd5i56.png"  />
 </div>
 
 ###
 
-<p align="left">🔭 I’m currently working on N Tier Arch., Onion Arch. and Microservice Arch. tecnologies w/ ASP.NET Core & MSSQL.</p>
-<p align="left">🌱 I’m currently learning Angular and practicing my coding skills.</p>
-<p align="left">👨‍💻 All of my projects will be here soon.</p>
-<p align="left">📫 Send me e-mail: <a href="mailto:iletisim@ahmetyuksel.com">ahmetyuksel@iletisim.com</a></p>
+<p align="center">🔭 I’m currently working on N Tier Arch., Onion Arch. and Microservice Arch. tecnologies w/ ASP.NET Core & MSSQL.</p>
+<p align="center">🌱 I’m currently learning Angular and practicing my coding skills.</p>
+<p align="center">👨‍💻 All of my projects will be here soon.</p>
+<p align="center">📫 Send me e-mail: <a href="mailto:iletisim@ahmetyuksel.com">ahmetyuksel@iletisim.com</a></p>
 
 ###
 
-<h3 align="left">Contact:</h3>
+<h3 align="center">Contact:</h3>
 
 ###
 
-<div align="left">
-  <a href="https://linkedin.com/in/ahmet-yuksel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmet-yuksel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"/></a>
 </div>
 
 ###
 
-<h3 align="left">Language & Tools:</h3>
+<h3 align="center">Language & Tools:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
