@@ -7,7 +7,7 @@
 <p align="center">🔭 I’m currently working on N Tier Arch., Onion Arch. and Microservice Arch. tecnologies w/ ASP.NET Core & MSSQL.</p>
 <p align="center">🌱 I’m currently learning Angular and practicing my coding skills.</p>
 <p align="center">👨‍💻 All of my projects will be here soon.</p>
-<p align="center">📫 Send me e-mail: <a href="mailto:iletisim@ahmetyuksel.com">ahmetyuksel@iletisim.com</a></p>
+<p align="center">📫 Send me e-mail: <a href="mailto:iletisim@ahmetyuksel.com">iletisim@ahmetyuksel.com</a></p>
 
 ###
 
