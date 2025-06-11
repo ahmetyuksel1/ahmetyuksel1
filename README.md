@@ -9,7 +9,7 @@
 <p align="center">🔭 I’m currently working on enhancing my skills in full stack .net development.</p>
 <p align="center">🌱 I continue to learn something new every day.</p>
 <p align="center">👨‍💻 This is a lifelong journey!</p>
-<p align="center">📫 Send me e-mail: <a href="mailto:iletisim@ahmetyuksel.com">iletisim@ahmetyuksel.com</a></p>
+<p align="center">📫 Send me e-mail: <a href="mailto:ahmetyuksel.gl@gmail.com">ahmetyuksel.gl@gmail.com</a></p>
 
 ###
 
