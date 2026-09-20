@@ -1,15 +1,14 @@
 <div align="center">
-  <!--<img height="300" src="https://i.hizliresim.com/lkd5i56.png"  />-->
   <h1 align="center">Hi 👋🏻, I'm Ahmet</h1>
-  <h3 align="center">Full Stack .NET Developer from Istanbul</h3>
+  <h3 align="center">IT Support & Full Stack Developer from Istanbul</h3>
 </div>
 
 ###
 
-<p align="center">🔭 I’m currently working on enhancing my skills in full stack .net development.</p>
-<p align="center">🌱 I continue to learn something new every day.</p>
-<p align="center">👨‍💻 This is a lifelong journey!</p>
-<p align="center">📫 Send me e-mail: <a href="mailto:ahmetyuksel.gl@gmail.com">ahmetyuksel.gl@gmail.com</a></p>
+<p align="center">🔭 Currently working as an IT Support Specialist at Başalan Patent & Trademark, dealing with legacy systems and modernizing codebases.</p>
+<p align="center">🌱 Studying Management Information Systems while sharpening my Full Stack skills. (Also vibe-coding projects)</p>
+<p align="center">💻 Passionate about automation, hardware, and solving infrastructure bottlenecks.</p>
+<p align="center">📫 Reach me via email: <a href="mailto:ahmetyuksel.gl@gmail.com">ahmetyuksel.gl@gmail.com</a></p>
 
 ###
 
@@ -41,13 +40,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -55,30 +48,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
 </div>
 
 ###
